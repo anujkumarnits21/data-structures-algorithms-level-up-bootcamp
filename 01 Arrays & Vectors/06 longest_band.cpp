@@ -1,3 +1,11 @@
+/*
+used set based approach with time complextiy 0(n) 
+
+we can use sorting as well but time complexity wil be nlog(n)
+
+
+*/
+
 #include<iostream>
 #include<vector>
 #include<unordered_set>
